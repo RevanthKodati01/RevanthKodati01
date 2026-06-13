@@ -10,7 +10,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm **Revanth Kodati** — a **Data Engineer & AI Engineer** with **3.5 years of experience** building scalable data pipelines, intelligent agents, and production-ready AI systems. I'm passionate about turning raw data into real business value — and increasingly, into autonomous AI-driven workflows.
+I'm **Revanth Kodati** - a **Data Engineer & AI Engineer** with **3.5 years of experience** building scalable data pipelines, intelligent agents, and production-ready AI systems. I'm passionate about turning raw data into real business value — and increasingly, into autonomous AI-driven workflows.
 
 Currently working on cutting-edge **Fintech AI projects** including a **GL Coding Agent** (automated general ledger classification) and a **Financial Operations Agent** that streamlines invoice processing and reconciliation using LLMs and multi-agent frameworks.
 
