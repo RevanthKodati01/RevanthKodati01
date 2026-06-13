@@ -16,10 +16,10 @@ Currently working on cutting-edge **Fintech AI projects** including a **GL Codin
 
 🔗 **Portfolio:** [revanth-kodati-portfolio.vercel.app](https://revanth-kodati-portfolio.vercel.app)
 
-- ♟️ Chess enthusiast — strategy on the board, strategy in code
-- 🌸 Fragrance collector — because good taste extends beyond tech
-- 🏋️ Fitness-driven — discipline in the gym, discipline in the codebase
-- 📊 Active on **Kaggle** — always learning, always competing
+- ♟️ Chess enthusiast - strategy on the board, strategy in code
+- 🌸 Fragrance collector - because good taste extends beyond tech
+- 🏋️ Fitness-driven - discipline in the gym, discipline in the codebase
+- 📊 Active on **Kaggle** - always learning, always competing
 
 ---
 
